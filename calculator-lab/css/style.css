@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	margin:100px;
+  }
+  
+  #result {
+	 border: 2vmin solid rgb(22, 2, 2);
+  }
+  
+  #button1, #inputt, #button2 {
+	display: inline;
+	border-color:black;
+	margin: 5px;
+  }
+  
+  #inputt {
+	border: 2vmin solid rgb(22, 2, 2);
+  }
